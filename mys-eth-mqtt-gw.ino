@@ -1,7 +1,7 @@
 
 #define SKETCH_VERSION "0.1"
 
-#define MY_DEBUG
+//#define MY_DEBUG
 //#define MY_DEBUG_VERBOSE_RFM69
 //#define MY_DEBUG_VERBOSE_GATEWAY
 #if F_CPU == 8000000L
